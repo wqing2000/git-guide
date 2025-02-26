@@ -29,3 +29,5 @@ $ git commit -m "hello world"
 基本上，写什么都可以，但是，一般来说，commit message 应该清晰明了，说明本次提交的目的。
 
 目前，社区有多种 Commit message 的写法规范。本文介绍[Angular 规范](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.greljkmo14y0)（见上图），这是目前使用最广的写法，比较合理和系统化，并且有配套的工具。
+
+![[git commit提交规范.png]]
